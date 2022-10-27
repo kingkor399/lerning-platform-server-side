@@ -1,0 +1,414 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab7a",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "course_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Python",
+      "instructor": {
+        "name": "Abdullah",
+        "educational_qualification": "Learn Python",
+        "img": "https://www.wikitechy.com/tutorials/python/img/python.png"
+      },
+      "image_url": "https://www.matellio.co.uk/wp-content/uploads/2021/04/What-Are-The-Top-Benefits-Of-Using-Python-For-Web-Development.jpg",
+      "details": "Python is one of the most powerful and best multi-purpose languages used for Web Development, as well as data analysis. It is an open-source language that is extremely easy to learn and use and also easy to deploy.",
+      "Fee": "200$",
+      "duration": "20h"
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab8b",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "course_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "PHP",
+      "instructor": {
+        "name": "Jimmy Dane",
+        "educational_qualification": "Learn PHP",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNfanPt_Vw_2aE1qXP5pVfiSlHQmNBZATdHtIVBkJ"
+      },
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMFmz5cOYa63I6lz5AmhEWMj5JKnV2OaxWCA&usqp=CAU",
+      "details": "PHP is one of the best languages for Web Development. Although it faces good competition from other languages like JavaScript and Python, there is still a huge requirement for professionals who can work with PHP in the market today.",
+      "Fee": "80$",
+      "duration": "30h"
+    },
+
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71021",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "course_id": "01",
+      "rating": { "number": 4.8, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "Java",
+      "instructor": {
+        "name": "Jennifer Wood",
+        "educational_qualification": "Learn Java",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR545BPOtI29t9eYgE0dv5tjUjipfyHrWVzXQ&usqp=CAU"
+      },
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnAUSNeJ6FYCwaElLHlO5Eqm6JP5LVAlaO_g&usqp=CAU",
+      "details": "Java is a versatile OOP language used for Android development, as well as desktop and web application development. It is a platform-independent multi-purpose language used for programming and has been a popular choice of language in various organizations for decades. Most companies have adopted it due to its stability. ",
+      "Fee": "100",
+      "duration": "22h"
+    },
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71013",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "course_id": "01",
+      "rating": { "number": 4.3, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "C#",
+      "instructor": {
+        "name": "Jennifer Wood",
+        "educational_qualification": "Learn C#",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy5hS1wt5ken0LXNNR9fVdOFKz2x5d09o3UA&usqp=CAU"
+      },
+      "image_url": "https://cdn01.alison-static.net/courses/1414/alison_courseware_intro_1414.jpg",
+      "details": "Class 10 Maths forms the fundamental basis for every higher level of math concepts and topics. In the Class 10 Maths curriculum, students are introduced to a wide variety of important concepts that would hold extreme importance in the later grades. Apart from developing a deeper understanding of maths fundamentals, class 10 mathematics is also important for board exams as it is a compulsory subject on most boards.",
+      "Fee": "100$",
+      "duration": "10h"
+    },
+
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f10",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "course_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 980,
+      "title": "JavaScript",
+      "instructor": {
+        "name": "Sadman",
+        "educational_qualification": "Learn JavaScript",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzYKFr24DPMk3A2OCuD7sAc9VRDk8PNYs7bA&usqp=CAU"
+      },
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-djM5oYsZxgd4AsyX2DuBQExiOw9OJe0aWg&usqp=CAU",
+      "details": "JavaScript is a widely used front-end language that allows you to design interactive and user-friendly front-end applications. In recent years, it has developed into a high-level, multi-paradigm, and dynamic language. It is one of the most frequently used languages that run anywhere, including cloud, mobile devices, browsers, containers, servers, and microcontrollers.",
+      "Fee": "100$",
+      "duration": "25h"
+    },
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f1",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "course_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 980,
+      "title": "React",
+      "instructor": {
+        "name": "Adam",
+        "educational_qualification": "learn React",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0iaeXtx5nmhpn1DnkxWLaI0v4cWqZtIDNxBc5gNZeAg&s"
+      },
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLpLnEFbqF9Yfi8sy9XiLruqEWh5Zi4_slILU0MJow&s",
+      "details": "React or ReactJS is a framework of JavaScript built by Facebook. This framework allows professionals to build user interfaces with their dynamic capabilities. Websites that are built using React work faster, and you can also switch between various available elements smoothly. Further, ReactJS allows organizations to build up and increase their loyalty among users by providing a remarkable user experience.",
+      "Fee": "100$",
+      "duration": "14h"
+    },
+
+    {
+      "_id": "2e78e5e0310c2e9adbb6efb1a263e748",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "course_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": null,
+      "title": "Angular",
+      "instructor": {
+        "name": "Brandi",
+        "educational_qualification": "learn Angular",
+        "img": "data:image/jpeg;base64,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"
+      },
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1b_6kzSMyWzngOxrrz7frkC70-dSDIc8dYw&usqp=CAU",
+      "details": "Angular is an improved and updated version of the earlier AngularJS framework built by Google. In comparison to React, it is more difficult to learn. However, it offers more practical solutions for the front end. Angular also allows you to develop complicated and highly scalable applications with great functionality, business logic, and attractive visual designs. ",
+      "Fee": "100$",
+      "duration": "10h"
+    },
+
+    {
+      "_id": "e342b6c0c8efc8ca9e811991dc8a7910",
+      "others_info": {
+        "is_todays_pick": true,
+        "is_trending": false
+      },
+      "course_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 733,
+      "title": "Mathematics",
+      "instructor": {
+        "name": "Theo Minh Châu",
+        "educational_qualification": "MSC in Mathematics",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
+      "image_url": "https://img.freepik.com/free-vector/chalkboard-with-math-elements_1411-88.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph",
+      "details":"Maths is an important subject for students in their school life and afterwards. Maths is one subject that is required in a lot of career paths and fields even after school and college. Students in school must have a good grip over the subject to make their day to day life easier. Having a good knowledge of the subject can help them score good marks in the exams and also solve issues quickly that would need any kind of calculations. Most subjects dealing with engineering, economics, commerce or maths honours subjects in college require the students to have maths as a compulsory subject in Class 12 and also maybe appear for an entrance test to get admission into the school.",
+      "Fee": "100$"
+
+    },
+    {
+      "_id": "e342b6c0c8efc8ca9e811991dc8a7991",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "course_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 733,
+      "title": "English 1 & 2",
+      "instructor": {
+        "name": "Theo Minh Châu",
+        "educational_qualification": "MA in English",
+        "img": "https://img.freepik.com/free-photo/young-man-is-ready-drawing-business-strategy_329181-680.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph"
+      },
+      "thumbnail_url": "https://i.ibb.co/df3gJ1b/unsplash-Eh-Tc-C9s-YXsw-13.png",
+      "image_url": "https://img.freepik.com/free-vector/isometric-language-center-courses-composition-with-bunch-books-english-surrounded-by-people-illustration_1284-64124.jpg?size=338&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph",
+      "details":"As per the latest prescribed English syllabus by CBSE, the Class 8 English Honeydew textbook includes ten units. Each unit contains a chapter from the Prose section and a poem, except for the last two units that contain only chapters. All the poems are equally important as chapters so students should pay attention to both.",
+      "Fee": "100$"
+    },
+
+    {
+      "_id": "f06f8cc035b04bd1158e4198281915b3",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "course_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 127,
+      "title": "Science",
+      "instructor": {
+        "name": "Ukrainska Pravda",
+        "educational_qualification": "MSC in Mathematics",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/0swsWpF/unsplash-Eh-Tc-C9s-YXsw-17.png",
+      "image_url": "https://img.freepik.com/free-vector/hand-drawn-science-education-background_23-2148499325.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph",
+      "details":"Science is a fascinating subject. The vast universe we live in is brimming with objects that exemplify innumerable scientific principles. Today's children are growing up in a more technologically and scientifically advanced world than ever before. As a result, people must acquire sophisticated and fundamental scientific procedures in order to live a stress-free existence. Children who are scientifically literate take Science as a subject at school and use it to guide their career choices. Teaching Science to Class 8 pupils can be challenging for teachers since the terminology used in the textbook has a variety of scientific words that are unfamiliar to kids. This has an impact on pupils' preparation for their Class 8 examinations. They grow quite worried about the questions from the Science textbook by the end of each chapter.",
+      "Fee": "100$"
+    },
+    {
+      "_id": "f06f8cc035b04bd1158e4198281915e4",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "course_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 127,
+      "title": "Bangla 1 & 2",
+      "instructor": {
+        "name": "Ukrainska Pravda",
+        "educational_qualification": "MA in Bangla",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
+      "image_url": "https://img.freepik.com/free-vector/bangladesh-victory-day-flat-illustration-concept-website-landing-page-ui_103373-502.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph",
+      "details": "Class 8 Bangla 1st, 9th, 13th, 17th Week Assignment Answer 2022 is available here. After getting the 1st, 9th, 13th, 17th week assignment question of class 8 Bangla subject, we have started to solution. Are you a class eight student and you have to do Bangla assignment? In addition, you are looking class 8 13th, 9th week Bangla assignment answer? Yes! here you can get all Bangla 1st, 9th, 13th, 17th week assignment answer of class 8 100% correct.",
+      "Fee": "100$"
+    },
+
+    {
+      "_id": "cd2b53655737cc4077542baea9f8f76d",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "course_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 700,
+      "title": "Engineering Admission Course",
+      "instructor": {
+        "name": "Daniel Deangelo",
+        "educational_qualification": "profaser in BUET",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://img.freepik.com/free-vector/engineering-background-design_1300-11.jpg?size=338&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=ais",
+      "details":"As a NAAC accredited institution, the college offers engineering and architecture courses affiliated to Maulana Abul Kalam Azad University of Technology (MAKAUT), formerly known as WBUT. The Engineering and Architecture courses are approved by AICTE and COA respectively to ensure that students are able to build a strong knowledge and application foundation with the guidance of experienced faculty and a robust learning environment. OmDayal Group of Institutions, one of the best engineering and architecture college in Kolkata, continuously upgrades their teaching and learning practices to help students develop top-notch analytical, designing, communication, and problem-solving skills, as new age technology professionals.",
+      "Fee": "100$"
+    },
+    {
+      "_id": "4e6092d54c18fbd89ad59e88a1e87fcb",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "course_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 300,
+      "title": "Medical Admission Course",
+      "instructor": {
+        "name": "",
+        "educational_qualification": "profaser in KUET",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://img.freepik.com/free-photo/team-young-specialist-doctors-standing-corridor-hospital_1303-21199.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph",
+      "details": "Faculty of Healthcare Administration (FHA) has been set up under the aegis of ‘Institute of Good Manufacturing Practices India'. Institute of Good Manufacturing Practices India, registered as a non-profit society ( under The Societies Registration Act,1860) with Government of India recognised by the Department of Industrial Policy & Promotion, Ministry of Commerce & Industry, Government of India, accredited Vocational Institution of Ministry of Education, Government of India, approved training Institute of Food Safety and Standards instructority of India (FSSAI) and affiliated with Life Sciences Sector Skills Council (SSC) and Food Industry Sector Skills Council of National Skill Development Corporation (NSDC) -presents unique, friendly and interactive platform to get rid of all your GMP related glitches. GMP- is an essential element of industries like pharmaceutical, cosmetic, Ayurveda, biotech, homeopathic, medical device and food manufacturing. GMP in itself is the most dynamic part which witnesses frequent changes in terms of newer rules being added and older ones being renewed. Keeping self updated with current GMPs thus becomes inevitable to stay abreast with the changing industry needs and practices.",
+      "Fee": "100$"
+    },
+    {
+      "_id": "7c4dfea0fafddc813673282a428429l7",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "course_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 0,
+      "title": "Dental Admission Course",
+      "instructor": {
+        "name": "Reuters",
+        "educational_qualification": "MBBS in dental",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://img.freepik.com/free-photo/african-american-man-patient-dental-chair-dentist-office-doctor-practice-concept-professional-dentist-helping-his-patient-dentistry-medical-drilling-patient-s-teeth-clinic_627829-13721.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph",
+      "details":"Faculty of Healthcare Administration (FHA) has been set up under the aegis of ‘Institute of Good Manufacturing Practices India'. Institute of Good Manufacturing Practices India, registered as a non-profit society ( under The Societies Registration Act,1860) with Government of India recognised by the Department of Industrial Policy & Promotion, Ministry of Commerce & Industry, Government of India, accredited Vocational Institution of Ministry of Education, Government of India, approved training Institute of Food Safety and Standards instructority of India (FSSAI) and affiliated with Life Sciences Sector Skills Council (SSC) and Food Industry Sector Skills Council of National Skill Development Corporation (NSDC) -presents unique, friendly and interactive platform to get rid of all your GMP related glitches. GMP- is an essential element of industries like pharmaceutical, cosmetic, Ayurveda, biotech, homeopathic, medical device and food manufacturing. GMP in itself is the most dynamic part which witnesses frequent changes in terms of newer rules being added and older ones being renewed. Keeping self updated with current GMPs thus becomes inevitable to stay abreast with the changing industry needs and practices.",
+      "Fee": "100$"
+    },
+   
+    {
+      "_id": "df11ff9feefc37613cc3a4486ce02161",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "course_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 552,
+      "title": "Freelancing From Home",
+      "instructor": {
+        "name": "Jony",
+        "educational_qualification": "A successful freelancer in fiver and other onlice marketplace",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
+      "image_url": "https://img.freepik.com/free-vector/remote-work-flat-funny-composition-with-successful-freelancer-sofa-with-laptop-bathing-money_1284-32221.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph",
+      "details": "This Freelancer course is specially designed for those people who loved to work from home and want to be his own boss. I have more then 5 years of Freelancing experience working with different countries all over the world. Therefore, I am going to share all my experience in this course to guide you to get ultimate projects worldwide. ",
+      "Fee": "100$"
+    },
+    {
+      "_id": "919db97c34e0778b387dd40cdfa08140",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "course_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 89,
+      "title": "Spoken English",
+      "instructor": {
+        "name": "NINa Elle",
+        "educational_qualification": "MA in English",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+      "image_url": "https://img.freepik.com/free-vector/flat-english-lessons-social-media-post-template_23-2149263656.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph",
+      "details": "There is nothing much to say about the importance of learning how to speak English. It has become a very essential part of our practical and professional life. Speaking English gives you the edge to remain at the forefront of competition and is regarded as equal, if not more important than academic qualifications. Business, Job, Studying Abroad, even studying in good institutions in the country require needed skills in Spoken English. Listening to English songs, watching English movies and news, reading English newspapers are very important in the process of developing speaking skills. Most importantly, you need an environment where you could exercise the above-mentioned things with the help of an experienced and friendly instructor. ",
+      "Fee": "100$"
+    },
+    {
+      "_id": "374df11ae3d9b8b9ce21f4dc53f59b95",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "course_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 798,
+      "title": "Learn Microsoft Word & Excel",
+      "instructor": {
+        "name": "Agust ames",
+        "educational_qualification": "Diploma in computer science and technology",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+      "image_url": "https://img.freepik.com/free-icon/word_318-607010.jpg?size=338&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph",
+      "details": "From a simple package to a well-known productivity suit, we call it Microsoft Office. No doubt, it has had lots of revolutionary changes since its conception. You will find everything you may need in the office setting to perform your tasks. Attending Microsoft office classes will help you find several options to enhance your skills necessary for different corporations.",
+      "Fee": "100$"
+    },
+  
+    {
+      "_id": "1b03149c50f1bec662062d930bf46499",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "course_id": "06",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 546,
+      "title": "Diploma In Computer Engineering",
+      "instructor": {
+        "name": "foysal",
+        "educational_qualification": "Diploma engineer , CST",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://img.freepik.com/free-vector/programmer-working-isometric-style_52683-16729.jpg?size=338&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph",
+      "details": "Diploma in computer science and engineering is a 4-year long program consisting of 8 semesters (1 Semester = 6 months). The final and the midterm exams of each semester are conducted under the supervision of the Bangladesh Technical Education Board (BTEB). All the exams question, answer script checking and final results are published by the BTEB. Besides this, each student has to attend the regular class test, quiz test, and semester final project. After successful completion, a student will receive a Diploma Certificate.",
+      "Fee": "100$"
+    },
+    {
+      "_id": "7f5b80c1cdd4df0111918883eae07339",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "course_id": "06",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 1870,
+      "title": "Diploma In Civil Engineering",
+      "instructor": {
+        "name": "Angela",
+        "educational_qualification": "Diploma Engineer , CIVIL",
+        "img": "https://img.freepik.com/free-photo/impressed-young-female-teacher-sits-table-with-school-tools-raising-pen-classroom_141793-106366.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph"
+      },
+      "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
+      "image_url": "https://img.freepik.com/free-photo/civil-engineer-construction-worker-manager-holding-digital-tablet-blueprints-talking-planing-about-construction-site-cooperation-teamwork-concept_640221-156.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph",
+      "educational_qualification": "2022-08-24 18:00:00",
+      "details": "A Diploma in Civil Engineering program can be a good choice for your career. An important branch of modern engineering & technology is civil engineering, the main subject of which is planning, design, and structural execution. These include various challenging facilities including public works design supervision and construction activities like roads, bridges, tunnels, buildings, airports, dams, sewerage systems, ports, etc.",
+      "Fee": "100$"
+    },
+    {
+      "_id": "17d266b79d2fcd850cd4d983c3aeb96f",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "course_id": "06",
+      "rating": { "number": 4.2, "badge": "Excellent" },
+      "total_view": 354,
+      "title": "Diploma In Electricity and Electronic Engineering",
+      "instructor": {
+        "name": "Presstv",
+        "educational_qualification": "Diploma Engineer , EEE",
+        "img": "https://img.freepik.com/free-photo/young-man-is-ready-drawing-business-strategy_329181-680.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph"
+      },
+      "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
+      "image_url": "https://img.freepik.com/free-photo/male-electrician-works-switchboard-with-electrical-connecting-cable_169016-15204.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph",
+      "details": "Electrical engineers are instrumental in revolutionizing the lives of modern man. They are required by the industries manufacturing all the household and office appliances like refrigerators, televisions, computer, microwaves and what not. In our age of satellite-transmitted television and transcontinental computer networks, these engineers are high in demand. Electrical engineers also find employment in atomic power plants, ",
+      "Fee": "100$"
+    }
+   
+    
+  ]
